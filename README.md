@@ -51,8 +51,6 @@ Integrates JavaFX GUI for reporting, bridging CLI and GUI development.
 
 Designed as a complete, modular, and maintainable assignment project.
 
-💼 Portfolio
-
 Check out more of my projects:
 
 💼 My Portfolio: www.brayanjay.web.lk
